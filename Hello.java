@@ -10,6 +10,5 @@ public class Hello extends GraphicsProgram {
         ovals.setFilled(true);
         ovals.setColor(Color.RED);
         add(ovals);
-
     }
 }
